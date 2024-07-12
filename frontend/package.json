@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://prathameshchaughule.github.io/Book-Store/",
+  "homepage": "https://prathameshchaughule.github.io/Book-Store",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
