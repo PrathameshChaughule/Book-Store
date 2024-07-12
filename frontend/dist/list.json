@@ -1,0 +1,116 @@
+[
+    
+    {
+        "id" : "1",
+        "name" : "Story Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "2",
+        "name" : "Horror Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 60,
+        "category" : "Ghost",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "3",
+        "name" : "Story Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "2",
+        "name" : "Horror Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 60,
+        "category" : "Ghost",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "5",
+        "name" : "Story Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "2",
+        "name" : "Horror Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 60,
+        "category" : "Ghost",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "7",
+        "name" : "Story Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "2",
+        "name" : "Horror Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 60,
+        "category" : "Ghost",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "9",
+        "name" : "Story Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "2",
+        "name" : "Horror Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 60,
+        "category" : "Ghost",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "11",
+        "name" : "Story Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "12",
+        "name" : "Story Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "13",
+        "name" : "Story Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    },
+    {
+        "id" : "2",
+        "name" : "Horror Book",
+        "title" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price" : 60,
+        "category" : "Ghost",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1719523316~exp=1719526916~hmac=37cea03c275177eaf6ce4475f30b0e5146a439c4dad25744d270ad3628639b01&w=900"
+    }
+    
+]
